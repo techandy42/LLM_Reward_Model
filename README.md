@@ -1,4 +1,4 @@
-# LLM_Reward_Model
+# LLM Reward Model
 
 > About
 
